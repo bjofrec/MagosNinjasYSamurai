@@ -1,0 +1,15 @@
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\bin\Debug\net6.0\MagosNinjaYSamurai.exe
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\bin\Debug\net6.0\MagosNinjaYSamurai.deps.json
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\bin\Debug\net6.0\MagosNinjaYSamurai.runtimeconfig.json
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\bin\Debug\net6.0\MagosNinjaYSamurai.dll
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\bin\Debug\net6.0\MagosNinjaYSamurai.pdb
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.AssemblyInfo.cs
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.dll
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\refint\MagosNinjaYSamurai.dll
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.pdb
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\MagosNinjaYSamurai.genruntimeconfig.cache
+C:\Users\brand\Desktop\C#\MagosNinjaYSamurai\obj\Debug\net6.0\ref\MagosNinjaYSamurai.dll
